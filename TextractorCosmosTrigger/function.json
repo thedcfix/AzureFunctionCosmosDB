@@ -1,0 +1,15 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "type": "THIS_WILL_BE_AUTOMATICALLY_FILLED",
+      "name": "documents",
+      "direction": "in",
+      "leaseCollectionName": "leases",
+      "connectionStringSetting": "THIS_WILL_BE_AUTOMATICALLY_FILLED",
+      "databaseName": "NAME_OF_YOUR_DB",
+      "collectionName": "NAME_OF_YOUR_CONTAINER",
+      "createLeaseCollectionIfNotExists": "true"
+    }
+  ]
+}
